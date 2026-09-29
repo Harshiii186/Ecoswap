@@ -5,7 +5,7 @@
 
 **Team Members:** 
 1. Anjali Tiwari
-2. Anjali Dwivedi
+2. Harshit Mishra
  
 **Theme:** Integrating Generative AI for Environmental Sustainability and Creative AI Innovations
 
